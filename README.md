@@ -45,11 +45,11 @@ This repository serves as a resource for exploring Governance, Risk, and Complia
 ### Blog
 | Blog Post                                      | Description               |
 |------------------------------------------------|---------------------------|
-| <a href="https://github.com/CruxSec/Blog-CybersecFundamentals">Cybersecurity Fundamentals: A Short Guide | A short introduction to the importance of cybersecurity, risks in the enviroment, and countermeasures to close the gap. |
+| <a href="https://github.com/CruxSec/Blog-CybersecFundamentals">Cybersecurity Fundamentals: A Short Guide | A short introduction to the importance of cybersecurity, risks in the enviroment, and ... |
 | etc.	|	|
 
 ### Projects
 | Project Name                                  | Description                |
 |-----------------------------------------------|----------------------------|
-| <a href="https://github.com/CruxSec/Project-Cloud-BasicAudit">Conducting a basic audit of an AWS environment  | An audit using multiple AWS services:  EC2, VPC, IAM, CloudTrail, and CloudWatch. |
+| <a href="https://github.com/CruxSec/Project-Cloud-BasicAudit">Conducting a basic audit of an AWS environment  | An audit using multiple AWS services:  EC2, VPC, IAM, ... |
 | etc.	|	|
